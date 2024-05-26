@@ -1,3 +1,5 @@
+PROJECT NBA
+
 Objectives:
 
 a)In this analysis, we'll explore how factors beyond shooting impact winning outcomes in the NBA. 
@@ -8,3 +10,5 @@ b)Additionally, we'll investigate potential correlations between point, rebound 
 c)Finally, we'll analyze how these factors, points, rebounds, and assists, have changed within the NBA over the past two decades.
 
 the datafile is from https://www.kaggle.com/datasets/nathanlauga/nba-games
+
+
