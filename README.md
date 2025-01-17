@@ -9,8 +9,8 @@ Objectives:
 #Running the Notebook in Google Colab
   1.	Open Google Colab: Go to https://colab.research.google.com/.
   2.	Upload the Notebook:
-  3.	Click on "File" -> "Upload notebook" and select "Project_Capstone.ipynb" from your local machine.
-  4.	Alternatively, you can upload the entire project directory (including "Project_Capstone.ipynb") to your Google Drive and open the notebook directly from there.
+  3.	Click on "File" -> "Upload notebook" and select "nba_reb_ass_analysis.ipynb" from your local machine.
+  4.	Alternatively, you can upload the entire project directory (including "nba_reb_ass_analysis.ipynb") to your Google Drive and open the notebook directly from there.
 
 #Methods Used
 
